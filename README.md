@@ -12,6 +12,7 @@ Full Processing Cycle: Uses Express.js for routing, handling user requests (POST
 This project demonstrates skills in server-side rendering (EJS/HTML) and persistent data management in a relational database.
 
 <img width="1907" height="996" alt="image" src="https://github.com/user-attachments/assets/222f77ab-0f64-41e2-a3af-878c8e42ebf8" />
-<img width="1400" height="712" alt="image" src="https://github.com/user-attachments/assets/46acac7f-4176-437b-8f55-d0d3d1debf91" />
+<img width="1719" height="794" alt="image" src="https://github.com/user-attachments/assets/988a6256-e58d-4f91-930a-6591de92e374" />
+
 
 
