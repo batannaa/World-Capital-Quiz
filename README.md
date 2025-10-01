@@ -13,6 +13,7 @@ This project demonstrates skills in server-side rendering (EJS/HTML) and persist
 
 <img width="1907" height="996" alt="image" src="https://github.com/user-attachments/assets/222f77ab-0f64-41e2-a3af-878c8e42ebf8" />
 <img width="1719" height="794" alt="image" src="https://github.com/user-attachments/assets/988a6256-e58d-4f91-930a-6591de92e374" />
+<img width="1527" height="803" alt="image" src="https://github.com/user-attachments/assets/7b08f817-3d3d-4686-9c60-3f4521121515" />
 
 
 
